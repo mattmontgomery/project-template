@@ -1,3 +1,3 @@
-# Hive Cache Mapper
+# project-template
 
-A tool for caching API responses# project-template
+A generic, simple, test-enabled project template.
